@@ -11,5 +11,8 @@
     "autoload": {
         "psr-4": { "gpilla\\DemoPortalBundle\\": "" }
     },
+    "extra": {
+        "class": "gpilla\\PortalDemoBundle\\PortalDemoBundle"
+    },
     "require": {}
 }
