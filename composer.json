@@ -1,6 +1,7 @@
 {
-    "name": "gpilla/DemoPortalBundle",
+    "name": "gpilla/demo-portal-bundle",
     "type": "portal-bundle",
+    "description": "Demo bundle to test the installer",
     "authors": [
         {
             "name": "Gustavo Pilla",
@@ -9,6 +10,6 @@
     ],
     "autoload": {
         "psr-4": { "gpilla\\DemoPortalBundle\\": "" }
-    }
+    },
     "require": {}
 }
