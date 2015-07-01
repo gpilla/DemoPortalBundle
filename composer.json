@@ -1,0 +1,14 @@
+{
+    "name": "gpilla/DemoPortalBundle",
+    "type": "portal-bundle",
+    "authors": [
+        {
+            "name": "Gustavo Pilla",
+            "email": "gustavo.pilla@unq.edu.ar"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "gpilla\\DemoPortalBundle\\": "" }
+    }
+    "require": {}
+}
